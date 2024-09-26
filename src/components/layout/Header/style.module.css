@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navBar {
+    display: flex;
+    flex-direction: row;
+}
+
+.navBarLeft {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
