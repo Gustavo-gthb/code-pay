@@ -4,9 +4,13 @@ import Header from "./../components/layout/Header/index";
 
 export default function Home() {
   return (
-    <div className={styles.page}>
+    <>
       <Header />
-      <main className={styles.main}></main>
-    </div>
+      <main className={styles.main}>
+
+      </main>
+      
+    </>
+    
   );
 }
