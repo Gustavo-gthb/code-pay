@@ -12,7 +12,7 @@ const Main = () => {
         <div className={styles.shipping}><Shipping/> Envio</div>
         <div className={styles.payment}><Payment/> Pagamento</div>
       </div>
-    </div>
+        </div>
   );
 };
 
